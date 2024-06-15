@@ -192,7 +192,7 @@ String requestBody = R"(
         "content": [
           {
             "type": "text",
-            "text": "Describe brevemente la imagen"
+            "text": "Eres un asistente descriptivo para personas con discapacidad visual,describe la imagen da respuestas cortas de maximo 100 caracteres"
           },
           {
             "type": "image_url",
